@@ -1,0 +1,32 @@
+[
+  {
+    "code": "GAL001",
+    "name": "Galapagos Explorer",
+    "length": "10 days",
+    "start": "2026-05-10",
+    "resort": "Galapagos Resort",
+    "perPerson": "$2500",
+    "image": "reef1.jpg",
+    "description": "Galapagos Explorer takes you through amazing islands and wildlife experiences."
+  },
+  {
+    "code": "BORA001",
+    "name": "Bora Bora Paradise",
+    "length": "7 days",
+    "start": "2026-06-15",
+    "resort": "Bora Bora Beach Resort",
+    "perPerson": "$3200",
+    "image": "sea-sound.jpg",
+    "description": "Bora Bora Paradise offers relaxing beaches and luxury accommodations."
+  },
+  {
+    "code": "JAP001",
+    "name": "Japan Adventure",
+    "length": "14 days",
+    "start": "2026-09-01",
+    "resort": "Tokyo Grand Hotel",
+    "perPerson": "$2800",
+    "image": "kayak.jpg",
+    "description": "Japan Adventure explores culture, food, and famous landmarks."
+  }
+]
